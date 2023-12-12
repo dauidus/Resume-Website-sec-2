@@ -4,7 +4,7 @@
 	background-position: center bottom;
 	background-repeat: repeat-x;
 	overflow: hidden;
-	@include border-radius(15px 15px 0 0); // apply the mixin 
+	@include border-radius(15px 15px 0 0); // apply the mixin
 }
 .about {
 	float: left;
@@ -23,7 +23,7 @@
 	}
 	h1 {
 		font-weight: 900;
-		color: $white;
+		color: $black;
 		line-height: 34px;
 		margin-top: 8px;
 	}
